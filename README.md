@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **next js**
 
-- 👨‍💻 All of my projects are available at [https://divyanshpal.vercel.app/](https://divyanshpal.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://divyanshpal.netlify.app/](https://divyanshpal.netlify.app/)
 
 - 📝 I regularly write articles on [theglu.in](theglu.in)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **divyanshpal300@outlook.com**
 
-- 📄 Know about my experiences [https://divyanshpal.vercel.app/eresume.pdf](https://divyanshpal.vercel.app/eresume.pdf)
+- 📄 Know about my experiences [https://divyanshpal.netlify.app/eresume.pdf](https://divyanshpal.netlify.app/eresume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
