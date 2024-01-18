@@ -11,9 +11,7 @@
 
 - 🌱 I’m currently learning **next js**
 
-- 👨‍💻 All of my projects are available at [https://divyanshpal.netlify.app/](https://divyanshpal.netlify.app/)
-
-- 📝 I regularly write articles on [theglu.in](theglu.in)
+- 👨‍💻 All of my projects are available at [https://divyansh.site/](https://divyansh.site/)
 
 - 💬 Ask me about **react, mern stack, python, c++**
 
