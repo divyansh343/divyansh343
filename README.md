@@ -46,7 +46,7 @@ I'm a passionate full stack developer with a strong focus on Next.js and AI tech
 ## Featured Projects
 
 ### Trade OS
-**Live:** [[Link to Trade OS](https://tradeos.site/)]
+**Live:** [[TradeOs.site](https://tradeos.site/)]
 - A comprehensive trading platform
 - Tech Stack: Next.js, React, Zustand, TypeScript, AI Wrappers
 
