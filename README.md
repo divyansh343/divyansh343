@@ -16,7 +16,7 @@ I'm a passionate full stack developer with a strong focus on Next.js and AI tech
 - 👨‍💻 Check out my portfolio: [https://divyansh.site/](https://divyansh.site/)
 - 💬 Ask me about **React, Next.js, MERN stack, AI integration**
 - 📫 How to reach me: **divyanshpal300@outlook.com**
-- 📄 My resume: [https://divyanshpal.netlify.app/eresume.pdf](https://divyanshpal.netlify.app/eresume.pdf)
+- 📄 My resume: [https://divyansh.site/divyansh_resume.pdf]([https://divyansh.site/divyansh_resume.pdf)
 
 ### Connect with me:
 
