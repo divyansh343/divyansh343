@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Divyansh
 
-## Full Stack Developer | AI Enthusiast | Next.js Specialist
+## Full Stack Developer | AI Enthusiast | Next.js
 
 I'm a passionate full stack developer with a strong focus on Next.js and AI technologies. I specialize in building robust, scalable web applications and innovative AI products.
 
