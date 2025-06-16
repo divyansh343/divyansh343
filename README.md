@@ -50,26 +50,6 @@ I'm a passionate full stack developer with a strong focus on Next.js and AI tech
 - A comprehensive trading platform
 - Tech Stack: Next.js, React, Zustand, TypeScript, AI Wrappers
 
-### Nomad Jobs
-**Live:** [https://jobsok.netlify.app/](https://jobsok.netlify.app/)
-- Job platform for remote workers
-- Tech Stack: MERN Stack, Tailwind CSS
-
-### Suprr.link
-**Live:** [https://suprrlink.netlify.app/](https://suprrlink.netlify.app/)
-- URL shortener with advanced analytics
-- Tech Stack: Next.js, MongoDB, Express.js
-
-### Heavy Ink Studio
-**Live:** [https://heavyink.netlify.app/](https://heavyink.netlify.app/)
-- Digital art marketplace
-- Tech Stack: React, Node.js, AWS
-
-### The Social Charts
-**Live:** [https://thesocialcharts.com/](https://thesocialcharts.com/)
-- Social media analytics dashboard with AI-powered insights
-- Tech Stack: React, D3.js, Express.js, Machine Learning
-
 I'm passionate about building in public and exploring the intersection of web development and AI. Follow my journey with #buildinpublic!
 
 <p align="center">
