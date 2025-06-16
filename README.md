@@ -10,7 +10,7 @@ I'm a passionate full stack developer with a strong focus on Next.js and AI tech
 
 <img src="https://img.shields.io/twitter/follow/divyanspal?logo=twitter&style=for-the-badge" alt="Twitter Follow" height="20" />
 
-- 🔭 I'm currently working on AI products at [Seinc](https://seinc.com)
+- 🔭 I'm currently working on AI products
 - 🚀 Refined in **Next.js** and building AI-powered applications
 - 🤖 Exploring LLMs (Large Language Models) and AI technologies
 - 👨‍💻 Check out my portfolio: [https://divyansh.site/](https://divyansh.site/)
