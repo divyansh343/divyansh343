@@ -1,62 +1,172 @@
-# Hi there 👋, I'm Divyansh
+# Hi there 👋, I'm Divyansh Pal
 
-## Full Stack Developer | AI | Next.js Dev
+## GTM Engineer | Growth Automation | AI Workflows
 
-I'm a passionate full stack developer with a strong focus on Next.js and AI technologies. I specialize in building robust, scalable web applications and innovative AI products.
+I build outbound systems, AI-powered GTM workflows, and growth infrastructure that help teams find prospects, automate repetitive work, and scale revenue.
 
-<img src="https://komarev.com/ghpvc/?username=divyansh343&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" height="20" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=divyansh343&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" height="150" />
-
-<img src="https://img.shields.io/twitter/follow/divyanspal?logo=twitter&style=for-the-badge" alt="Twitter Follow" height="20" />
-
-- 🔭 I'm currently working on AI products
-- 🚀 Refined in **Next.js** and building AI-powered applications
-- 🤖 Exploring LLMs (Large Language Models) and AI technologies
-- 👨‍💻 Check out my portfolio: [https://divyanshpal.xyz](https://www.divyanshpal.xyz/)
-- 💬 Ask me about **React, Next.js, MERN stack, SQL, AI, RAG, Scraping**
-- 📫 How to reach me: **divyanshpal300@outlook.com**
-- 📄 My resume: [https://divyanshpal.xyz/resume](https://www.divyanshpal.xyz/resume)
-
-### Connect with me:
+My background combines software engineering with go-to-market execution—building internal tools, AI agents, lead generation systems, scraping pipelines, dashboards, and automation across multiple channels.
 
 <p align="left">
-  <a href="https://twitter.com/divyanspal" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/divyanshpal343/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://github.com/divyansh343" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-</p>
-
-### Languages and Tools:
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-</p>
-
-## Featured Projects
-
-### Trade OS
-**Live:** [[TradeOs.site](https://tradeos.vercel.app/)]
-- A comprehensive trading platform
-- Tech Stack: Next.js, React, Zustand, TypeScript, AI Wrappers
-
-I'm passionate about building in public and exploring the intersection of web development and AI. Follow my journey with #buildinpublic!
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyansh343&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=divyansh343&show_icons=true&locale=en" alt="GitHub Stats" height="150" />
+  <img src="https://komarev.com/ghpvc/?username=divyansh343&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh343" alt="GitHub Streak" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=divyansh343&column=4&margin-w=15&margin-h=15&theme=flat" alt="GitHub Trophies"/>
 </p>
+
+---
+
+## 🚀 What I Do
+
+- 🤖 Build AI-powered GTM workflows
+- 📧 Outbound automation (Email, LinkedIn, X, Telegram)
+- 🎯 Lead generation & prospecting systems
+- 🔍 Competitive intelligence & web scraping
+- ⚡ AI agents & business automation
+- 📊 Growth dashboards & analytics
+- 💻 Full Stack Development (React, Next.js, Node.js)
+
+---
+
+## 🛠 Current Focus
+
+- AI Sales Automation
+- GTM Engineering
+- Growth Infrastructure
+- Workflow Automation
+- AI Agents
+- Data Enrichment
+- CRM Integrations
+- Prospecting Systems
+
+---
+
+## 💼 Experience
+
+I've built systems for:
+
+- Automated outbound campaigns
+- AI-assisted prospect research
+- Lead enrichment pipelines
+- Multi-channel outreach workflows
+- Recruiting automation
+- Internal GTM dashboards
+- Web scraping infrastructure
+- Growth operations tooling
+
+---
+
+## 🌐 Portfolio
+
+🔗 **Portfolio:** https://divyanshpal.xyz
+
+📄 **Resume:** https://divyanshpal.xyz/resume
+
+📫 **Email:** divyanshpal300@outlook.com
+
+---
+
+## 🤝 Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/divyanshpal343/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+
+<a href="https://twitter.com/divyanspal" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+</a>
+
+<a href="https://github.com/divyansh343" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+# ⚙️ Tech Stack
+
+### Growth & Automation
+
+<p>
+<img src="https://cdn.simpleicons.org/openai/412991" height="40"/>
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40"/>
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="40"/>
+<img src="https://cdn.simpleicons.org/postman/FF6C37" height="40"/>
+<img src="https://cdn.simpleicons.org/github/181717" height="40"/>
+<img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40"/>
+</p>
+
+### Development
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## Trade OS
+
+AI-powered trading journal and analytics platform.
+
+**Tech**
+- Next.js
+- TypeScript
+- React
+- Zustand
+- AI Integrations
+
+🔗 https://tradeos.vercel.app/
+
+---
+
+## Outbound & GTM Systems
+
+- AI prospecting workflows
+- LinkedIn automation
+- Email sequencing
+- Lead enrichment
+- Competitor monitoring
+- Growth dashboards
+- Recruiting automation
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=divyansh343&show_icons=true&count_private=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh343&layout=compact"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh343"/>
+</p>
+
+---
+
+## 📈 Interests
+
+- AI Agents
+- GTM Engineering
+- Growth Automation
+- Sales Infrastructure
+- SaaS
+- Product-Led Growth
+- Revenue Operations
+- Developer Tools
+
+---
+
+> Building systems that help companies grow faster through automation, AI, and great engineering.
